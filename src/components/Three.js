@@ -1,6 +1,6 @@
-const Three =()=>{
-    return( 
-    <div>three</div>)
+// const Three =()=>{
+//     return( 
+//     <div>three</div>)
 
-}
-export default Three
+// }
+// export default Three
